@@ -1,0 +1,16 @@
+{
+    "name": "Eidetic.SensorStreamPipe",
+    "rootNamespace": "",
+    "references": [
+        "GUID:63dd42ed31a81f048a7cd449590c623c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
